@@ -1,0 +1,62 @@
+QPPONet-BMS Academic Use License
+Copyright (c) 2026 MV Sujan Kumar, Ganesh Khekare
+Vellore Institute of Technology, Vellore, India
+
+TERMS AND CONDITIONS
+
+1. PERMITTED USE
+   Permission is granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"),
+   to use, copy, modify, and build upon the Software for academic,
+   research, and educational purposes only, subject to the conditions
+   below.
+
+2. MANDATORY CITATION
+   Any academic work, publication, preprint, thesis, report, presentation,
+   or software that uses, adapts, reproduces, or builds upon this Software
+   or the methods described herein MUST cite the following paper:
+
+      MV Sujan Kumar and Ganesh Khekare,
+      "Optimizing Charge Discharge Cycles Using QPPONet-Enabled Hybrid
+      Learning Framework for Energy Management and Safety in Electric
+      Vehicles,"
+      Scientific Reports, Nature Portfolio, 2026.
+      [DOI to be added upon publication]
+
+   The citation must appear in the references section of any resulting
+   publication or documentation. Failure to cite constitutes a violation
+   of this license.
+
+3. PROHIBITED USES
+   The following uses are explicitly prohibited without prior written
+   permission from the authors:
+
+   a) Commercial use — including but not limited to incorporation into
+      commercial products, services, or software sold or licensed for
+      profit.
+
+   b) Redistribution of the Software or derivative works as a standalone
+      product or library without attribution to the original authors.
+
+   c) Use in any system intended for deployment in safety-critical
+      environments without independent validation by qualified engineers.
+
+4. ATTRIBUTION
+   All copies, forks, or derivative works must retain this license file,
+   the original copyright notice, and a clear reference to the original
+   repository:
+   https://github.com/KRYSTALM7/QPPONet-BMS
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY ARISING FROM USE OF THIS SOFTWARE.
+
+6. CONTACT
+   For commercial licensing, collaboration, or permissions beyond the
+   scope of this license, contact:
+
+   MV Sujan Kumar — sujankumar7702@gmail.com
+   Ganesh Khekare — ganesh.khekare@vit.ac.in
